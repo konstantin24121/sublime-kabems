@@ -13,7 +13,7 @@ Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select
 ### Manually
 
  * cd <YOUR PACKAGES DIRECTORY> (eg. ~/Library/Application\ Support/Sublime\ Text\ 3/Packages)
- * git clone https://github.com/konstantin24121/sublime-kabem
+ * git clone https://github.com/konstantin24121/sublime-kabems
 
 Support Monokai Extended Theme
 
