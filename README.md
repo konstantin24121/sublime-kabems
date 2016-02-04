@@ -1,6 +1,6 @@
 # KABEMS
 
-> KABEMS Version 1 Grammar for SCSS with KABEMS and BEM methodologies based on 
+> KABEMS Version 1 Grammar for SCSS with KABEMS and BEM methodologies based on [SCSS Version 2 Grammar by Mario "Kuroir" Ricalde](https://github.com/MarioRicalde/SCSS.tmbundle)
 
 ## Installation
 
@@ -8,7 +8,7 @@
 
 See http://wbond.net/sublime_packages/package_control/installation for instructions.
 
-Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select Package Control: Install Package and then select "KABEM" from the list.
+Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select Package Control: Install Package and then select "KABEMS" from the list.
 
 ### Manually
 
@@ -18,3 +18,7 @@ Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select
 Support Monokai Extended Theme
 
 ![Example](http://oi67.tinypic.com/15otqvp.jpg)
+
+## License
+
+##### Copyright (c) 2016 Konstantin Viikset
