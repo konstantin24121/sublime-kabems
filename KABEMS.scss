@@ -1,0 +1,47 @@
+.block{
+	display:block;
+	color: $c_blue_1;
+
+	@include respond-to('xs') {
+		//Some coments and style here
+		/*
+			and more lines
+		*/
+	}
+	&._modificator{
+		display:block;
+		color: $c_blue_1;
+	}
+	&__ellement{
+		display:block;
+		color: $c_blue_1;
+		
+		.block._modificator &{
+			margin: 2rem 5% 4em 1px;
+		}
+
+		&._element-modificator{
+			display:block;
+			color: #CDCDCD;
+		}
+	
+		&.is-concurent{
+			@include span(3 of 12);
+		}
+	}
+
+	&__ment{
+		@extend %police;
+		font-family: 'Roboto', sans-serif;
+
+		&-implement{
+			//Some coments and style here
+		}
+
+		&-leroy-jenkins{
+			content: 'at least I have chicken';
+		}
+	}
+
+}
+
