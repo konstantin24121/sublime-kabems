@@ -15,6 +15,8 @@ Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select
  * cd <YOUR PACKAGES DIRECTORY> (eg. ~/Library/Application\ Support/Sublime\ Text\ 3/Packages)
  * git clone https://github.com/konstantin24121/sublime-kabems
 
+Also hightlighter work with classic BEM
+
 Support Monokai Extended Theme
 
 ![Example](http://oi67.tinypic.com/15otqvp.jpg)
