@@ -13,7 +13,7 @@ var DOCUMENTATION_TOP =
   ' * git clone https://github.com/konstantin24121/sublime-kabems\n\n' +
   'Also hightlighter work with classic BEM\n\n' +
   'Support Monokai Extended Theme\n\n' +
-  '![Example](https://raw.githubusercontent.com/konstantin24121/sublime-kabems/docs/img/example.jpg)\n\n' +
+  '![Example](https://raw.githubusercontent.com/konstantin24121/sublime-kabems/master/docs/img/example.jpg)\n\n' +
   '#### Documentation of available snippets (SCSS):\n\n' +
   '```\n';
 

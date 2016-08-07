@@ -19,7 +19,7 @@ Also hightlighter work with classic BEM
 
 Support Monokai Extended Theme
 
-![Example](https://raw.githubusercontent.com/konstantin24121/sublime-kabems/docs/img/example.jpg)
+![Example](https://raw.githubusercontent.com/konstantin24121/sublime-kabems/master/docs/img/example.jpg)
 
 #### Documentation of available snippets (SCSS):
 
