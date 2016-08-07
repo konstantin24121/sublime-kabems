@@ -3,7 +3,7 @@ var async = require('async');
 
 var DOCUMENTATION_TOP =
   '# KABEMS\n\n' +
-  '> KABEMS Version 1 Grammar for SCSS with KABEMS and BEM methodologies based on [SCSS Version 2 Grammar by Mario "Kuroir" Ricalde](https://github.com/MarioRicalde/SCSS.tmbundle)\n\n' +
+  '> KBEMS Grammar for Sublime Text with KABEMS and BEM methodologies based on [SCSS Version 2 Grammar by Mario "Kuroir" Ricalde](https://github.com/MarioRicalde/SCSS.tmbundle)\n\n' +
   '## Installation\n\n' +
   '### With Package Control\n\n' +
   'See http://wbond.net/sublime_packages/package_control/installation for instructions.\n\n' +

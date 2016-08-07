@@ -1,6 +1,6 @@
 # KABEMS
 
-> KABEMS Version 1 Grammar for SCSS with KABEMS and BEM methodologies based on [SCSS Version 2 Grammar by Mario "Kuroir" Ricalde](https://github.com/MarioRicalde/SCSS.tmbundle)
+> KBEMS Grammar for Sublime Text with KABEMS and BEM methodologies based on [SCSS Version 2 Grammar by Mario "Kuroir" Ricalde](https://github.com/MarioRicalde/SCSS.tmbundle)
 
 ## Installation
 
