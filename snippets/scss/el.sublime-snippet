@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+&__${1:element}{
+	${2:styles}
+}
+]]></content>
+	<tabTrigger>el</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate element in SCSS</description>
+</snippet>

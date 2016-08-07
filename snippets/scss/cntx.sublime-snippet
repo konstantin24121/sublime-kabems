@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+#{${1:context}} &{
+	${2:styles}
+}
+]]></content>
+	<tabTrigger>cntx</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate context in SCSS</description>
+</snippet>

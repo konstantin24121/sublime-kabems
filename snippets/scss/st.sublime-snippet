@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+&.is-${1:statment}{
+	${2:styles}
+}
+]]></content>
+	<tabTrigger>st</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate statment in SCSS</description>
+</snippet>

@@ -12,15 +12,33 @@ Open the palette (Control+Shift+P or Command+Shift+P) in Sublime Text and select
 
 ### Manually
 
- * cd <YOUR PACKAGES DIRECTORY> (eg. ~/Library/Application\ Support/Sublime\ Text\ 3/Packages)
+ * cd <YOUR PACKAGES DIRECTORY> (eg. ~/Library/Application Support/Sublime Text 3/Packages)
  * git clone https://github.com/konstantin24121/sublime-kabems
 
 Also hightlighter work with classic BEM
 
 Support Monokai Extended Theme
 
-![Example](http://oi67.tinypic.com/15otqvp.jpg)
+![Example](https://raw.githubusercontent.com/konstantin24121/sublime-kabems/docs/img/example.jpg)
+
+#### Documentation of available snippets (SCSS):
+
+```
+   cntx → Generate context in SCSS
+
+     el → Generate element in SCSS
+
+  kbems → Generate simple structure
+
+    mod → Generate modificator in SCSS
+
+     st → Generate statment in SCSS
+
+  subel → Generate subelement in SCSS
+
+```
 
 ## License
 
 ##### Copyright (c) 2016 Konstantin Viikset
+

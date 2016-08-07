@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+&._${1:modifier}{
+	${2:styles}
+}
+]]></content>
+	<tabTrigger>mod</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate modificator in SCSS</description>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+.${1:block}{
+	&._modificator{
+		
+	}
+	&.is-state{
+		
+	}
+	#{context} &{
+		
+	}
+	&__ellement{
+		
+	}
+}
+]]></content>
+	<tabTrigger>kbems</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate simple structure</description>
+</snippet>

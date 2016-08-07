@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+&-${1:subelem}}{
+	${2:styles}
+}
+]]></content>
+	<tabTrigger>subel</tabTrigger>
+	<scope>source.scss</scope>
+	<description>KBEMS: Generate subelement in SCSS</description>
+</snippet>
