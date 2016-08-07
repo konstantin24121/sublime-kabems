@@ -38,6 +38,8 @@ Support Monokai Extended Theme
 
 ```
 
+All snippets compatible with Emmet
+
 ## License
 
 ##### Copyright (c) 2016 Konstantin Viikset

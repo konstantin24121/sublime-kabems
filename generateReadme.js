@@ -19,6 +19,7 @@ var DOCUMENTATION_TOP =
 
 var DOCUMENTATION_BOTTOM =
   '```\n\n' +
+  'All snippets compatible with Emmet\n\n' +
   '## License\n\n' +
   '##### Copyright (c) 2016 Konstantin Viikset\n\n';
 
