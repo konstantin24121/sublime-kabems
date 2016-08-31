@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-&-${1:subelem}}{
+&-${1:subelem}{
 	${2:styles}
 }
 ]]></content>
